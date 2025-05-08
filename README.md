@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Su Pyae Thein Zaw</h1>
 <h3 align="center">I am Web Developer</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supyaetz&label=Profile%20views&color=0e75b6&style=flat" alt="supyaetz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supyaetz" alt="supyaetz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img align="right" alt="COding" width="400"src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 - 🔭 I’m currently working project name is **fashion Summary**
 
 - 👨‍💻 All of my projects are available at [https://supyaetz.it.com/](https://supyaetz.it.com/)
